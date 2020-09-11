@@ -1,6 +1,6 @@
 # GCP Project:
 ____________________________________________________________________________________________________________________
-### Deployment of WordPress on Google Cloud Platform ( GCP) with VPC and Kubernetes Integrations:
+### Deployment of WordPress on Google Cloud Platform (GCP) with VPC and Kubernetes Integrations:
 ____________________________________________________________________________________________________________________
 ![](https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/0_7ljmtw18/def_height/1005/def_width/1920/version/100012/type/2/q/100)
 ____________________________________________________________________________________________________________________
